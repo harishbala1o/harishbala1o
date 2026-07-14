@@ -40,3 +40,5 @@ in a terminal, I'm usually learning about whatever's next in cloud, DevOps, and 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harishbalaji10)
 - 🌐 [Website](https://harishbalaji.netlify.app)
+
+<!-- profile readme -->
